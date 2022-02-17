@@ -1,5 +1,5 @@
 {
-  "name": "FileSharing MIMIN CANTIK",
+  "name": "FileSharing LVTE MIMIN CANTIK",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
@@ -15,7 +15,7 @@
     },
     "OWNER": {
       "description": "Isi Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "ReszXD"
+      "value": "LVTE"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
@@ -58,7 +58,7 @@
       "value": "CH BOKEP",
       "required": false
     },
-    "CHANNELBC":{
+    "CHANNEL_BACKUP":{
       "description": "Username Channel  Backup [ Jangan Pake @ ]",
       "value": "CH BACKUP",
       "required": false
