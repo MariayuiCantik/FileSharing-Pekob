@@ -15,7 +15,7 @@
     },
     "OWNER": {
       "description": "Isi Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "LVTE"
+      "value": "PresidentNET69bot"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
@@ -41,7 +41,7 @@
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
       "value": "-100"
     },
-    "FORCE_SUB_GROUP": {
+    "FORCE_SUB_GRUP": {
       "description": "Masukan ID dari Group Untuk Wajib Subscribenya",
       "value": "-100"
     },
@@ -63,7 +63,7 @@
       "value": "CH BACKUP",
       "required": false
     },
-    "GROUP":{
+    "GRUP":{
       "description": "Username Group Kamu Wajib Subscribe Sama Seperti FORCE_SUB_GROUP [ Jangan Pake @ ]",
       "value": "GRUP DISKUSI",
       "required": false
