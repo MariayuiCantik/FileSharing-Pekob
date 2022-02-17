@@ -55,17 +55,17 @@
     },
     "CHANNEL":{
       "description": "Username Channel  Asupan Wajib Subscribe Sama Seperti FORCE_SUB_CHANNEL [ Jangan Pake @ ]",
-      "value": "asup***",
+      "value": "CH BOKEP",
       "required": false
     },
     "CHANNELBC":{
       "description": "Username Channel  Backup [ Jangan Pake @ ]",
-      "value": "asup***",
+      "value": "CH BACKUP",
       "required": false
     },
     "GROUP":{
       "description": "Username Group Kamu Wajib Subscribe Sama Seperti FORCE_SUB_GROUP [ Jangan Pake @ ]",
-      "value": "Grup****",
+      "value": "GRUP DISKUSI",
       "required": false
     }
   },
