@@ -22,7 +22,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/restuap17/FileSharing-Pekob)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/MariayuiCantik/FileSharing-Pekob)</br>
 
 #### Deploy in your VPS
 ````bash
